@@ -23,7 +23,7 @@ bld/
 [Oo]bj/
 
 # Exception to include 3rd party packages
-packages/*
+!packages/
 
 # Visual Studo 2015 cache/options directory
 .vs/
